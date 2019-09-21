@@ -57,7 +57,7 @@
     "work": [
       {
         "company": "AKQA Melbourn",
-        "title": "Senior Fronted Developer ",
+        "title": "Senior Frontend Developer ",
         "years": "May 2019 - Present",
         "description": "Wokring as a Senior Frontend Developer for Bunnings (third largest website in Australia) mainly work on React, Redux, storybook, DSL, BEM, SASS, API Gateway, jest and enzyme, here we are doidng component based development and migrating a JQuery and hbs based large legacy system to react here I have learned about the importance of Design Specific Language(DSL) to make sure the consistency of Design and maintainability of application"
       },
