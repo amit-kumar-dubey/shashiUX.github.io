@@ -1,1 +1,11 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,oBACI,YACA,YAAc,CAElB,qBACI,WAAa","file":"static/css/main.bb04c7fb.css","sourcesContent":[".portfolio-item img{\n    width: 215px;\n    height: 130px;\n}\ni.fa.fa-medium:after {\n    content: \"M\";\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
+{
+  "version": 3,
+  "sources": ["App.css"],
+  "names": [],
+  "mappings": "AAAA,oBACI,YACA,YAAc,CAElB,qBACI,WAAa",
+  "file": "static/css/main.bb04c7fb.css",
+  "sourcesContent": [
+    ".portfolio-item img{\n    min-width: 215px;\n    min-height: 130px;\n}\ni.fa.fa-medium:after {\n    content: \"M\";\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"
+  ],
+  "sourceRoot": ""
+}
