@@ -1,8 +1,8 @@
 {
   "main": {
-    "name": "Krishank Dwivedi",
-    "occupation": "Javascript Full Stack Developer",
-    "description": "like to play both in backend and frontend, I have been a part of many Engineering Transformation Journeys for many multi national clients like Lloyds Banking Group, Bunnings, Diageo and H&M which helped me to understand the actual impact of technology in businesses. I like to contribute in opensource community, write articles, run sessions, Technical Meetups and Conferences",
+    "name": "Shashi Kumar Mishra",
+    "occupation": "Sr Frontend developer",
+    "description": "like to play in frontend technologies, I have been a part of many Engineering Transformation Journeys for many multi national clients like Lloyds Banking Group, Bunnings, Diageo and H&M which helped me to understand the actual impact of technology in businesses. I like to contribute in opensource community, write articles, run sessions, Technical Meetups and Conferences",
     "image": "krishank.jpeg",
     "bio": "Hello I am Krishank I have 6+ years of working Experience as a Javascript Full Stack Developer where I have worked in various technologies in different area and domain like Frontend (React, Redux, Jest and Enzyme), Mobile (IONIC), CMS(Drupal, AEM, WordPress, Site core), Backend (Node, Moca, Chai, Sinnon, REST APIs, API Gateways, IBM API Connect, Azure Gateway, API Sceurity) and Devops(Jenkins, UCD, CI/CD, IBM Bluemix, Azure)  My Primary Skill is JavaScript and I am working in both Frontend and Backend from last 3 years. I worked for an End to End API Building platform in which we developed and exposed more then 200 APIs this helped me to understand the In and Out of the whole Architecture and the importance of scalabilty.",
     "contactmessage": "I am always open for new challenges shoot a mail if you have something which will not allow me to say NO",
@@ -10,10 +10,7 @@
     "phone": "Call: +61 468780060",
     "whatsApp": "WhatsApp: +44 7448669171",
     "address": {
-      "street": "88 Wells street",
-      "city": "Melbourne",
-      "state": "VIC",
-      "zip": "3006"
+      "city": "Delhi/NCR",
     },
     "resumedownload": "./assets/Resume-Krishank.pdf",
     "social": [

@@ -1,107 +1,69 @@
 {
   "main": {
-    "name": "Krishank Dwivedi",
-    "occupation": "Javascript Full Stack Developer",
-    "description": "like to play both in backend and frontend, I have been a part of many Engineering Transformation Journeys for many multi national clients like Lloyds Banking Group, Bunnings, Diageo and H&M which helped me to understand the actual impact of technology in businesses. I like to contribute in opensource community, write articles, run sessions, Technical Meetups and Conferences",
-    "image": "krishank.jpeg",
-    "bio": "Hello I am Krishank I have 6+ years of working Experience as a Javascript Full Stack Developer where I have worked in various technologies in different area and domain like Frontend (React, Redux, Jest and Enzyme), Mobile (IONIC), CMS(Drupal, AEM, WordPress, Site core), Backend (Node, Moca, Chai, Sinnon, REST APIs, API Gateways, IBM API Connect, Azure Gateway, API Sceurity) and Devops(Jenkins, UCD, CI/CD, IBM Bluemix, Azure)  My Primary Skill is JavaScript and I am working in both Frontend and Backend from last 3 years. I worked for an End to End API Building platform in which we developed and exposed more then 200 APIs this helped me to understand the In and Out of the whole Architecture and the importance of scalabilty.",
+    "name": "Shashi Mishra",
+    "occupation": "Sr Frontend Developer",
+    "description": "like to play with new frontend technologies, I have been a part of many Engineering Transformation Journeys for many multi national clients like Nationwide Building Society, Marks and Spencer, Ladbrokes and Motability (UK) which helped me to understand the actual impact of technology in businesses. I like to contribute in opensource community, run sessions, Technical Meetups and Conferences",
+    "image": "shashi-dp.jpeg",
+    "bio": "Over 10+ years of IT experience which includes various technologies in different area and domain like Frontend (React, Redux, Jest and Enzyme), CMS( AEM), Backend (Node, Moca, Chai, Sinnon, REST APIs, API Gateways) and Devops(Jenkins). I worked for an End to End API Building platform in which we developed and exposed APIs this helped me to understand the In and Out of the whole Architecture and the importance of scalabilty.",
     "contactmessage": "I am always open for new challenges shoot a mail if you have something which will not allow me to say NO",
-    "email": "Email: krishsoftware1991@gmail.com",
-    "phone": "Call: +61 468780060",
-    "whatsApp": "WhatsApp: +44 7448669171",
+    "email": "Email: shashilion2002@gmail.com",
+    "phone": "Call: +91 9810501249",
     "address": {
-      "street": "88 Wells street",
-      "city": "Melbourne",
-      "state": "VIC",
-      "zip": "3006"
+      "city": "Delhi/NCR"
     },
     "resumedownload": "./assets/Resume-Krishank.pdf",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/krishank-dwivedi-448935b9/",
+        "url": "https://www.linkedin.com/in/shashi-mishra-8435213/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/Krishank",
+        "url": "https://github.com/shashiUX",
         "className": "fa fa-github"
       },
       {
-        "name": "Medium",
-        "url": "https://medium.com/@krishsoftware1991",
-        "className": "fa fa-medium"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com/krishsoftware1991",
-        "className": "fa fa-skype"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/krishank.dwivedi",
+        "url": "https://www.facebook.com/shashi.k.mishra1",
         "className": "fa fa-facebook"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Bachelors in computer science and engineering 6+ year of working experience in software development mainly focused helping clients in there Engineering Transformation Journeys, REST APIs Node and React based full stack Developer.",
+    "skillmessage": "",
     "education": [
       {
-        "school": "Uttar Pradesh Technical University",
-        "degree": "Bachelors in computer science and engineering",
-        "graduated": "2012",
-        "description": ""
+        "school": "IGNOU",
+        "degree": "Bachelors in information technologies",
+        "graduated": "2005",
+        "description": "Got Higher national diploma from Execel University, London"
       }
     ],
     "work": [
       {
-        "company": "AKQA Melbourn",
-        "title": "Senior Frontend Developer ",
-        "years": "May 2019 - Present",
-        "description": "Wokring as a Senior Frontend Developer for Bunnings (third largest website in Australia) mainly work on React, Redux, storybook, DSL, BEM, SASS, API Gateway, jest and enzyme, here we are doidng component based development and migrating a JQuery and hbs based large legacy system to react here I have learned about the importance of Design Specific Language(DSL) to make sure the consistency of Design and maintainability of application"
-      },
-      {
         "company": "Sapient UK",
-        "title": "Team Lead Senior Associate Experience Technology L2 ",
-        "years": "March 2018 - May 2019",
-        "description": "Worked as a Team Lead for Lloyds Banking Group API Platform my work was divided into 70% coading(React, Node) and 30 team lead activites which involve preparing new praposals for our clients, backlog refienment, connecting with product owner on regualr basis, resolving inter team dependencies and running multple sessions. The project was based on Node, React, Redux, IBM API Connect, REST, API Sceurity (OAuth, OIDC, JWE, JWS,JWT, JOSE, API Key), Moca, Chai, Sinnon, IBM Bluemnmix, Docker, Kubernetes, Jenkins, UCD"
-      },
-      {
-        "company": "Sapient UK",
-        "title": "Senior Associate Experience Technology L2 ",
-        "years": "January 2018 -  March 2018",
-        "description": "Worked as a Full Stack Developer for Lloyds Banking Group PSD2 Open Banking Program where I was mainly responsible for development using Node, React, Redux, IBM API Connect, REST, API Sceurity (OAuth, OIDC, JWE, JWS,JWT, JOSE, API Key), Moca, Chai, Sinnon etc. here I started contributing in praposel of solution and also learned and worked on Drupal for about a two months because of Project Need (https://developer.lloydsbanking.com) "
+        "title": "Team Lead, Senior Associate Experience Technology L2 ",
+        "years": "May 2018 - Aug 2019",
+        "description": "Worked as a Team Lead for Nationwide Building Society 'Switch Track', my work was divided into 70% coading(React, Node) and 30 team lead activites which involve preparing new praposals for our clients, backlog refienment, connecting with product owner on regualr basis, resolving inter team dependencies and running multple sessions. The project was based on Node, React, Redux"
       },
       {
         "company": "Sapient UK",
         "title": "Senior Associate Experience Technology L1 ",
-        "years": "March 2017 - January 2018",
-        "description": "Worked as a Full Stack Developer for Lloyds Banking Group PSD2 Open Banking Program worked on Node, React, Redux, IBM API Connect, REST, API Sceurity (OAuth, OIDC, JWE, JWS,JWT, JOSE, API Key), Moca, Chai, Sinnon this was my first project where I have started working on REST APIs, Node, API Gateways and API Sceurity so I learned a lot here"
+        "years": "June 2014 - Dec 2016",
+        "description": "I played a Javascript SME rolein the project Marks and spencer, Architechure is based on server side rendering by using Node.js, ES6, Axios. I contributed in complex modules like PLP, PDP, Home page.  "
       },
       {
         "company": "Sapient India",
-        "title": "Sr Associate Experience Technology L1 ",
-        "years": "December 2016 - February 2017",
-        "description": "Worked as a Mobile App Developer for NedBank we have used technologies like Ionic, mocha chai and sinon In this project I learned about Mobile App development"
+        "title": "Associate Experience Technology L1 ",
+        "years": "April 2011 - May 2014",
+        "description": "Worked as a frontend developer for Ladbrokes (betting website) and Motability. Worked on Hybris related project for integration of frontend for betting website. For Motability I have developed the component in jQuery and also handle the Accesibility AAA standard with implementation of most of the AAA standard rules like color option, font size etc."
       },
       {
-        "company": "Sapient India",
-        "title": "Associate Experience Technology L2 ",
-        "years": "August 2015 - January 2016",
-        "description": "Worked as a Frontend Developer for Diageo platform and H&M. Diageo platform team was responsible to develop reusable components which other team can reuse mainly worked on Jquery, Pubsub, Handlebar and backbone the backed was in AEM. Here I learned about multi tenant and multi lingual application and H&M  was based on Jquery, Pubsub, Handlebar and backed was in AEM here I learned application personalisation"
-      },
-      {
-        "company": "InfoEdge",
-        "title": "Sr. Frontend Engineer",
-        "years": "2013 - 2015",
-        "description": "Developed FirstNaukri.com mobile site and proposed multiple best practices and tools like SASS, Grunt, Jasmin, Zepto, Requirejs, Mobile First Approach yes its not new now but backin 2013 it was"
-      },
-      {
-        "company": "InfoEdge",
-        "title": "Frontend Engineer",
-        "years": "2013 - 2015",
-        "description": "Joined as a Frontend Engineer and started working on naukrigulf.com Developed a Form building Library so our clients can create multiple forms without writing any html, here I worked intensively on OOJS"
+        "company": "Vriti Infocom Pvt Ltd",
+        "title": "Sr UI/UX Developer",
+        "years": "1998 - 2011",
+        "description": "Design and developed the web pages for various reputed education institutins like Narayna, Amity, Sharda University. Tools I used for design was Photoshop, and for development HTML, jQuery, CSS"
       }
     ],
     "skills": [
@@ -111,7 +73,7 @@
       },
       {
         "name": "Node, REST APIs",
-        "level": "72%"
+        "level": "52%"
       },
       {
         "name": "SASS, CSS, BEM",
@@ -119,23 +81,11 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "IBM API Connect, AZURE API gateway",
-        "level": "78%"
-      },
-      {
-        "name": "REST, API Sceurity (OAuth, OIDC, JWE, JWS,JWT, JOSE, API Key)",
-        "level": "74%"
+        "level": "85%"
       },
       {
         "name": "Moca, Chai, Sinnon, Jest and Enzyme",
-        "level": "76%"
-      },
-      {
-        "name": "IBM bluemix, Azure,  CI/CD, Docker, Kubernetes, Jenkins, UCD, Teamcity, Octopus",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "GIT,Grunt, Gulp, Webpack, TDD, BDD, JIRA, Confluence, Azile",
@@ -180,18 +130,6 @@
         "category": "Largest job searching portal for Gulf",
         "image": "naukri-gulf.png",
         "url": "https://www.naukrigulf.com/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Krishank must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
       }
     ]
   }

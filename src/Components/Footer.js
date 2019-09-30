@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2019 Krishank Dwivedi</li>
+              <li>&copy; Copyright 2019 Shashi Kumar Mishra</li>
             </ul>
           </div>
           <div id="go-top">
