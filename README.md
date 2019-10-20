@@ -1,4 +1,4 @@
-## Krishank's Profile
+## Shashi Mishra's Resume 
 
 This is a Sample of how to create your profile application in React, feel free to clone and use it to create your own profile.
 
@@ -29,8 +29,6 @@ This is a Sample of how to create your profile application in React, feel free t
 │ ├── Portfolio.js
 
 │ ├── Resume.js
-
-│ └── Testimonials.js
 
 ├── index.css
 
