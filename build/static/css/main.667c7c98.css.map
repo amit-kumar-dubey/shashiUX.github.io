@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,oBACI,gBACA,gBAAkB,CAEtB,qBACI,WAAa","file":"static/css/main.667c7c98.css","sourcesContent":[".portfolio-item img{\n    min-width: 215px;\n    min-height: 130px;\n}\ni.fa.fa-medium:after {\n    content: \"M\";\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}

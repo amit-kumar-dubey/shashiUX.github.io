@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Shashi Mishra",
+    "occupation": "Sr Frontend Developer",
+    "description": "like to play with new frontend technologies, I have been a part of many Engineering Transformation Journeys for many multi national clients like Nationwide Building Society, Marks and Spencer, Ladbrokes and Motability (UK) which helped me to understand the actual impact of technology in businesses. I like to contribute in opensource community, run sessions, Technical Meetups and Conferences",
+    "image": "shashi-dp.jpeg",
+    "bio": "Over 10+ years of IT experience which includes various technologies in different area and domain like Frontend (React, Redux, Jest and Enzyme), CMS( AEM), Backend (Node, Moca, Chai, Sinnon, REST APIs, API Gateways) and Devops(Jenkins). I worked for an End to End API Building platform in which we developed and exposed APIs this helped me to understand the In and Out of the whole Architecture and the importance of scalabilty.",
+    "contactmessage": "I am always open for new challenges shoot a mail if you have something which will not allow me to say NO",
+    "email": "Email: shashilion2002@gmail.com",
+    "phone": "Call: +91 9810501249",
+    "address": {
+      "city": "Delhi/NCR"
+    },
+    "resumedownload": "./assets/Resume-Krishank.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shashi-mishra-8435213/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shashiUX",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shashi.k.mishra1",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "IGNOU",
+        "degree": "Bachelors in information technologies",
+        "graduated": "2005",
+        "description": "Got Higher national diploma from Execel University, London"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sapient UK",
+        "title": "Team Lead, Senior Associate Experience Technology L2 ",
+        "years": "May 2018 - Aug 2019",
+        "description": "Worked as a Team Lead for Nationwide Building Society 'Switch Track', my work was divided into 70% coading(React, Node) and 30 team lead activites which involve preparing new praposals for our clients, backlog refienment, connecting with product owner on regualr basis, resolving inter team dependencies and running multple sessions. The project was based on Node, React, Redux"
+      },
+      {
+        "company": "Sapient UK",
+        "title": "Senior Associate Experience Technology L1 ",
+        "years": "June 2014 - Dec 2016",
+        "description": "I played a Javascript SME rolein the project Marks and spencer, Architechure is based on server side rendering by using Node.js, ES6, Axios. I contributed in complex modules like PLP, PDP, Home page.  "
+      },
+      {
+        "company": "Sapient India",
+        "title": "Associate Experience Technology L1 ",
+        "years": "April 2011 - May 2014",
+        "description": "Worked as a frontend developer for Ladbrokes (betting website) and Motability. Worked on Hybris related project for integration of frontend for betting website. For Motability I have developed the component in jQuery and also handle the Accesibility AAA standard with implementation of most of the AAA standard rules like color option, font size etc."
+      },
+      {
+        "company": "Vriti Infocom Pvt Ltd",
+        "title": "Sr UI/UX Developer",
+        "years": "1998 - 2011",
+        "description": "Design and developed the web pages for various reputed education institutins like Narayna, Amity, Sharda University. Tools I used for design was Photoshop, and for development HTML, jQuery, CSS"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs, Redux",
+        "level": "85%"
+      },
+      {
+        "name": "Node, REST APIs",
+        "level": "52%"
+      },
+      {
+        "name": "SASS, CSS, BEM",
+        "level": "78%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "Moca, Chai, Sinnon, Jest and Enzyme",
+        "level": "70%"
+      },
+      {
+        "name": "GIT,Grunt, Gulp, Webpack, TDD, BDD, JIRA, Confluence, Azile",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Bunnings",
+        "category": "Bunnings is one of the busiest website in austrelia",
+        "image": "bunnings.png",
+        "url": "https://bunnings.com.au"
+      },
+      {
+        "title": "PSD2 Open Banking Lloyds Banking Group",
+        "category": "Developed and Exposed Open Banking (The use of open APIs that enable third-party developers to build applications and services around the financial institution) and also extend it to a scalable API Platform and a single entrypoint for the bank",
+        "image": "lloyds.png",
+        "url": "https://developer.lloydsbanking.com/"
+      },
+      {
+        "title": "Diageo",
+        "category": "As Diageo has more then 70 brands I was working as a Developer in Platform team to Develop Reusable components which other brands can use and theme it accordingly",
+        "image": "diageo.png",
+        "url": "https://www.diageo.com/"
+      },
+      {
+        "title": "H&M",
+        "category": "H&M has multiple brands like cos, other stories we developed a single intranet application for H&M which can personalise as per user role",
+        "image": "hnm.png",
+        "url": "https://www.hm.com/au/"
+      },
+      {
+        "title": "First Naukri",
+        "category": "A Job portal for new graduates",
+        "image": "first-naukri.png",
+        "url": "https://www.firstnaukri.com/"
+      },
+      {
+        "title": "Naukri Gulf",
+        "category": "Largest job searching portal for Gulf",
+        "image": "naukri-gulf.png",
+        "url": "https://www.naukrigulf.com/"
+      }
+    ]
+  }
+}
