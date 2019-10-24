@@ -19,7 +19,7 @@ class App extends Component {
 
   getResumeData() {
     $.ajax({
-      url: "/resumeData.json",
+      url: "https://shashiux.github.io/resumeData.json",
       dataType: "json",
       cache: false,
       success: function(data) {
