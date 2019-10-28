@@ -11,7 +11,7 @@
     "address": {
       "city": "Delhi/NCR"
     },
-    "resumedownload": "./assets/shashikumar.pdf",
+    "resumedownload": "./build/assets/shashikumar.pdf",
     "social": [
       {
         "name": "linkedin",
